@@ -1,0 +1,25 @@
+{
+  "name": "focusable",
+  "version": "0.1.0",
+  "description": "Returns a string of focusable HTML elements",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jkup/focusable.git"
+  },
+  "keywords": [
+    "focus",
+    "html",
+    "accessibility",
+    "focusable"
+  ],
+  "author": "Jon Kuperman",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jkup/focusable/issues"
+  },
+  "homepage": "https://github.com/jkup/focusable#readme"
+}
