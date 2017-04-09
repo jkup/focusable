@@ -13,5 +13,5 @@ npm install focusable
 ```
 const focusable = require('focusable');
 
-var elements = document.querySelectorAll(focusable());
+var elements = document.querySelectorAll(focusable);
 ```
