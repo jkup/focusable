@@ -1,6 +1,6 @@
 {
   "name": "focusable",
-  "version": "2.2.0",
+  "version": "2.3.0",
   "description": "Returns a string of focusable HTML elements",
   "main": "index.js",
   "scripts": {
